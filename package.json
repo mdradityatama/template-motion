@@ -1,5 +1,7 @@
 {
   "name": "template-motion",
   "private": true,
-  "workspaces": []
+  "workspaces": [
+    "siklin-promo-60s"
+  ]
 }
