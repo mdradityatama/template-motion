@@ -1,0 +1,4 @@
+# Local agent settings
+.claude/settings.local.json
+
+node_modules
